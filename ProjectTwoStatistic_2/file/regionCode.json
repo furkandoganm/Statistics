@@ -1,0 +1,48 @@
+{
+  "list": [
+    {
+      "country": "Turkey",
+      "code": "TR"
+    },
+    {
+      "country": "Great Britain",
+      "code": "GB"
+    },
+    {
+      "country": "United States",
+      "code": "US"
+    },
+    {
+      "country": "France",
+      "code": "FR"
+    },
+    {
+      "country": "Germany",
+      "code": "DE"
+    },
+    {
+      "country": "Spain",
+      "code": "ES"
+    },
+    {
+      "country": "Italy",
+      "code": "IT"
+    },
+    {
+      "country": "China",
+      "code": "CN"
+    },
+    {
+      "country": "India",
+      "code": "IN"
+    },
+    {
+      "country": "Canada",
+      "code": "CA"
+    },
+    {
+      "country": "Russia",
+      "code": "RU"
+    }
+  ]
+}

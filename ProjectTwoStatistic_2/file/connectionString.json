@@ -1,0 +1,28 @@
+{
+  "connectionString" : [
+    {
+      "name": "MONGOURI",
+      "cString": "mongodb+srv://************@cluster0.5phv1yj.mongodb.net/?retryWrites=true&w=majority"
+    },
+    {
+      "name": "TOKENKEY",
+      "cString": "nomoreletlifedevide"
+    },
+    {
+      "name": "YOUTUBEKEY",
+      "cString": "AIzaSyC5MnT33lElkPeQLV7QVPUZaSAJ4X6Cmlc"
+    },
+    {
+      "name": "DATABASE",
+      "cString": "youtube"
+    },
+    {
+      "name": "CHANNELCOLLECTION",
+      "cString": "channel"
+    },
+    {
+      "name": "VIDEOCOLLECTION",
+      "cString": "video"
+    }
+  ]
+}
